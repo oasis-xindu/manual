@@ -36,6 +36,9 @@ B.1 곰세마리 링크 https://m.youtube.com/watch?v=mlNqBmt-M20
 B.2 找朋友 링크 https://youtu.be/vNxmF9k8ISE
 (곰세마리와 找朋友는 있는 그대로 음악 만들면 된다고 함 
  ? 확인: 곰세마리 找朋友 앞에 짤막한 말이 있는데 그것도 그래도 사용 )
+C.1
+C.2 歌声与微笑 링크 https://youtu.be/byipP4vlrjU
+(歌声与微笑는 편집이 필요)
 D.1 동물농장 링크 https://youtu.be/HfCIFtAvAIw
 D.2 春晓 링크 https://youtu.be/KXLK_9wytGI
 (? 확인: 春晓는 반주곡만 달라고 하는데 좀 어려울것 같음 반주만 있는 곡 찾아봐야 함)
