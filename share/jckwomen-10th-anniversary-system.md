@@ -29,7 +29,7 @@ E|-|3분| it's small word(영어) | 2분 3초 | - | 강국화
 G|-|60분| 12명, 스피치 발표 | 없음 | - | 전정선 및 학부모
 
 ```
-음악파일
+음악파일 (convert tool: https://ytmp3.cc/ )
 A.1 탈춤놀이 링크 https://youtu.be/up48SMjwjG4 
 A.2 早晨洗漱歌 링크 https://m.youtube.com/watch?v=EReEQ2BxmSI
 B.1 곰세마리 링크 https://m.youtube.com/watch?v=mlNqBmt-M20
