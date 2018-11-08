@@ -34,16 +34,11 @@ A.1 탈춤놀이 링크 https://youtu.be/up48SMjwjG4
 A.2 早晨洗漱歌 링크 https://m.youtube.com/watch?v=EReEQ2BxmSI
 B.1 곰세마리 링크 https://m.youtube.com/watch?v=mlNqBmt-M20
 B.2 找朋友 링크 https://youtu.be/vNxmF9k8ISE
-(곰세마리와 找朋友는 있는 그대로 음악 만들면 된다고 함 
- ? 확인: 곰세마리 找朋友 앞에 짤막한 말이 있는데 그것도 그래도 사용 )
 C.1 낭독이기에 음악 없음. 
 C.2 歌声与微笑 링크 https://youtu.be/byipP4vlrjU
-(歌声与微笑는 편집이 필요)
 D.1 동물농장 링크 https://youtu.be/HfCIFtAvAIw
 D.2 春晓 링크 https://youtu.be/KXLK_9wytGI
-(? 확인: 春晓는 반주곡만 달라고 하는데 좀 어려울것 같음 반주만 있는 곡 찾아봐야 함
-https://www.youtube.com/watch?v=D8MV2A6ojP8&t=93s)
-E.  It's a Small World 링크 https://youtu.be/AUdA2qBUDKM
+E. It's a Small World 링크 https://youtu.be/AUdA2qBUDKM
 ( 참고: 요 링크는 율동 배워주는 내용 https://youtu.be/ZbgbmaaWaJI) 
 
 ```
@@ -88,9 +83,9 @@ E | 단체사진 | 10분 | - | -
 
 절목순서 | 발표자 | 발표절목 | 발표시간 | 프레젠테이션 
 ---|:---|:---|:---:|:---:
-1 | 샘물학교어린이 | 상어가족(전체) TT댄스(소학3반) | 5분 06초 | - 
-2 | 안연 | 손북춤(조선무용) | 3분 11초 (재확인필요)  | -
-3 | 조병철 | 母亲(노래) | 3분 37초 | - 
+1 | 샘물학교어린이 | 상어가족(전체) + TT댄스(소학3반) | 5분 06초 | - 
+2 | 안연 | 손북춤(조선무용) | 3분 11초 | -
+3 | 조병철 | 母亲(노래) + 广寒楼(노래, 안연 伴舞) | 3분 37초 + 2분 41초 | - 
 4 | 이수진 & 소학3반 | 밀양아리랑(노래 & 안무) | 1분 59초 | -
 5 | 김춘자 | 황포돛대(노래) | 3분 32초 | -
 6 | 리홍매 | 동반자(노래) | 3분 6초 | -
@@ -109,9 +104,10 @@ E | 단체사진 | 10분 | - | -
 5. 황포돛대.mp3
 6. 동반자.mp3
 7. 그리움만 쌓이네 반주G.mp3
+8. ? 확인중 
 9. 살리고 달리고 https://youtu.be/H0VcOHCsEtY (살리고달리고.mp3) 
 10. 우린 하나되어 이겼어 링크: https://youtu.be/z8rRwQ4UxQo
-   (합창하는 효과 영상 참고: https://youtu.be/B2YeQJ-HsvU) 
+   (가사가 있는 영상: https://youtu.be/GRvs2EnVcp0) 
 
 ```
 
